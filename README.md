@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python 24/7**
 
-- 📫 How to reach me **stephno2003@gmail.com**
+- 📫 Reach me via [my email](mailto:stephno2003@gmail.com)
 
 - 📄 Find my CV at [https://drive.google.com/file/d/1XXKGkRax2hVMo6XYtoJiCgFDmRFvWLCm/view?usp=sharing](https://drive.google.com/file/d/1XXKGkRax2hVMo6XYtoJiCgFDmRFvWLCm/view?usp=sharing)
 
