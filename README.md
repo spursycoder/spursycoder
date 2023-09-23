@@ -13,7 +13,7 @@
 
 - 📫 Reach me via [my email](mailto:stephno2003@gmail.com)
 
-- 📄 Find my CV at [https://drive.google.com/file/d/1XXKGkRax2hVMo6XYtoJiCgFDmRFvWLCm/view?usp=sharing](https://drive.google.com/file/d/1XXKGkRax2hVMo6XYtoJiCgFDmRFvWLCm/view?usp=sharing)
+- 📄 Find my CV at [this link](https://drive.google.com/file/d/1WYt8bBCxhB4eaDqsVzE2XE57_ygSfMxr/view?usp=sharing)
 
 - ⚡ Fun fact **Got into coding at the age of 8 with ActionScript**
 
