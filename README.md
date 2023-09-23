@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MedPal](https://github.com/spursycoder/Med-Pal)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on [CodeDash](https://github.com/spursycoder/Code-Dash)
 
