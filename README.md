@@ -3,17 +3,15 @@
 
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spursycoder&title=JoinDate,Commit,PR,Repo&theme=onedark" alt="spursycoder" /></a> </p>
 
-- 🔭 I’m currently working on [MedPal](https://github.com/spursycoder/Med-Pal)
+- 🔭 I’m currently working on Timeline(private as of now)
 
 - 🌱 I’m currently learning **React Native**
-
-- 👯 I’m looking to collaborate on [CodeDash](https://github.com/spursycoder/Code-Dash)
 
 - 💬 Ask me about **Python 24/7**
 
 - 📫 Reach me via [my email](mailto:stephno2003@gmail.com)
 
-- 📄 Find my CV at [this link](https://drive.google.com/file/d/1WYt8bBCxhB4eaDqsVzE2XE57_ygSfMxr/view?usp=sharing)
+- 📄 Find my CV at [this link]([https://drive.google.com/file/d/1WYt8bBCxhB4eaDqsVzE2XE57_ygSfMxr/view?usp=sharing](https://drive.google.com/file/d/166tGucAASW5rBpD1EUCk_ZQ7vAujNKze/view?usp=sharing))
 
 - ⚡ Fun fact **Got into coding at the age of 8 with ActionScript**
 
