@@ -38,4 +38,3 @@
 <br>
 <br>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=spursycoder&show_icons=true&locale=en" alt="spursycoder" /></p>
